@@ -41,5 +41,5 @@ But if you have suggestions for improving solutions or better approaches, feel f
 
 ⭐ If you find this helpful, consider giving the repo a star!
 comming soon due to some issue
-python
+python and others
 
