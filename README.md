@@ -36,6 +36,7 @@ Example:---
 ## 🤝 Contributions
 This is mainly my personal practice repository.  
 But if you have suggestions for improving solutions or better approaches, feel free to **open an issue or pull request**.
+i will back soon.
 
 ---
 
